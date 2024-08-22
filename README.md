@@ -1,4 +1,5 @@
 # Get started
+Follow the steps to get started...
 1. set up the npm configuration
 ```
 npm init
